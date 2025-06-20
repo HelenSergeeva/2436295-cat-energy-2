@@ -1,12 +1,12 @@
 .hero__title{
-  font-style: $secondary-font;
+  font-family: $secondary-font;
   font-size: 36px;
   line-height: 36px;
   color: $basic-white;
 }
 
 .hero__description{
-  font-style: $secondary-font;
+  font-family: $secondary-font;
   font-size: 14px;
   line-height: 14px;
   color: $basic-white;
@@ -14,7 +14,7 @@
 }
 
 .hero__button{
-  font-style: $secondary-font;
+  font-family: $secondary-font;
   font-size: 16px;
   line-height: 20px;
   color: $basic-white;
